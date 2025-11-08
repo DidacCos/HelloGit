@@ -1,1 +1,1 @@
-print("prova eines grafiques")print("prova eines grafiquesv2")print("prova eines grafiquesv2")
+print("prova eines grafiquesv2")
